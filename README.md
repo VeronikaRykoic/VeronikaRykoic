@@ -23,9 +23,9 @@ develop my skills and gain hands-on experience.
 - <b>Mathematical Skills:</b> Statistics, probability, numerical methods, and forecasting
 - <b>Other:</b> LaTeX, Microsoft PowerPoint, Microsoft Word
 
-<h2>📂 Projects</h2>
+## 📂 Projects
 
-- <b>MilkyBase Data Analysis</b>
+- **[MilkyBase Data Analysis](https://github.com/VeronikaRykoic/analiza-danych-milkybase)**
   - Statistical analysis of a real-world dataset on human milk composition
   - Cleaned and restructured the original Excel database, assessed missing data, and selected a reliable subset for further analysis
   - Investigated relationships between protein, fat, lactose, energy content, lactation time, maternal age, and birth outcome
