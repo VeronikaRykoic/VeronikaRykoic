@@ -36,4 +36,3 @@ develop my skills and gain hands-on experience.
 <h2>🤳 Connect with Me</h2>
 
 - 💼 <a href="https://www.linkedin.com/in/veronika-rykoic-b23373271/">LinkedIn</a>
-- 📧 <a href="mailto:rykoicveronika@gmail.com">Email</a>
